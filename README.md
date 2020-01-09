@@ -24,6 +24,8 @@ By default, this application recognizes pic.twitter.com, pbs.twimg.com, www.inst
 dotnet run TweetAnalytics.csproj
 ```
 
+Once the project is running, the local API should be available at the route https://localhost:5001/tweet-analytics/stats.json
+
 ## Running the tests
 ```
 dotnet test
