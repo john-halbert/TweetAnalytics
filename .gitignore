@@ -1,0 +1,8 @@
+errors.txt
+tweets.json
+obj/
+bin/
+appsettings.Development.json
+unprocessable-tweets.json
+.vs/
+emoji.json
